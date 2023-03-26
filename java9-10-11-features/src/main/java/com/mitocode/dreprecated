@@ -1,0 +1,9 @@
+Java 9 already deprecated selected Java EE and CORBA modules.
+In release 11, it has now completely removed:
+
+Java API for XML-Based Web Services (java.xml.ws)
+Java Architecture for XML Binding (java.xml.bind)
+JavaBeans Activation Framework (java.activation)
+Common Annotations (java.xml.ws.annotation)
+Common Object Request Broker Architecture (java.corba)
+JavaTransaction API (java.transaction)
